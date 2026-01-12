@@ -103,18 +103,11 @@ hyaku_masu/
 
 MIT License - 詳細は [LICENSE](LICENSE) ファイルを参照してください。
 
-## 開発者
-
-kotaromizuma
-
-## 貢献
-
-プルリクエストや問題の報告を歓迎します。
-
 ## 更新履歴
 
 ### v1.0.0 (2026-01-13)
 - 初回リリース
 - Streamlit Webインターフェースの実装
+- Streamlit Cloudへのリンク先の追加
 - 足し算・掛け算プリントの生成機能
 - Excel形式での出力
